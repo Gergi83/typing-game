@@ -1,0 +1,11 @@
+{
+  "name": "typing-game",
+  "version": "1.0.0",
+  "description": "simple game for typing words",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgo Yordanov",
+  "license": "ISC"
+}
